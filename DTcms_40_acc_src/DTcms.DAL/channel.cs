@@ -6,9 +6,9 @@ using System.Data.OleDb;
 using System.Collections;
 using DTcms.DBUtility;
 using DTcms.Common;
-
+///
 namespace DTcms.DAL
-{
+{   
 	/// <summary>
 	/// 数据访问类:频道
 	/// </summary>
